@@ -29,7 +29,7 @@ Amu strânge pe absolut toată lumea din jur și du-te jos in beci pentru inidic
 
 
 bucharest = timezone('Europe/Bucharest')
-deadline = datetime(2013, 6, 8, 11, 0)
+deadline = datetime(2013, 6, 8, 20, 0)
 deadline = bucharest.localize(deadline)
 
 def home(request):
